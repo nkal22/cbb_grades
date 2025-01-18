@@ -14,3 +14,5 @@ The calculation methodology for each score is explained below:
 **Defense Grade**: Average of the percentile scores for STL%, BLK%, and a few defense-specific advanced metrics (DPORPAG, DBPM, DGBPM, ADRTG)
 
 **Advanced Metrics Grade**: Average of the percentile scores for PORPAG, BPM, GBPM
+
+Webapp: https://rpubs.com/njk5yr/cbbgrades
